@@ -1,0 +1,32 @@
+> GameObject
+	> Character
+		> Player
+			> Human
+			> Dog
+			> Bird
+			> etc...
+		> AI
+			> Person
+			> Animal
+			> etc...
+
+	> Static
+		> WorldObject
+			> Tree
+			> Door
+		> Item
+
+
+> Verbs
+	> Go
+	> Take
+	> Give
+	> Eat
+	> Equip
+	> Use <X> (on)
+	> Drop
+	> Hit
+	> Say
+	> Talk (about)
+
+
